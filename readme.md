@@ -1,3 +1,12 @@
+# Module 7
+
+## My Github Repo
+![GitHub Repo](/qr_codes/QRCode_20261017185623.png "My QR Code Link")
+
+## My Github Repo
+![Docker QR Image](/qr_codes/QRCode_20261017185305.png "My QR Code Link")
+
+
 # 📦 Project Setup
 
 ---
